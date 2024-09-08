@@ -4,6 +4,6 @@ Collection of Python scripts to recreate the figures used in recent paper, inclu
 Citation for paper: Webber et al. (in prep) Addressing Local Parameter Uncertainty for Climate Resilient Urban Stormwater Modeling and Decision Making
 
 ## Dependencies
-numpy >= 1.21.4 \n
-pandas >= 1.5.1
-matplotlib >= 3.4.3
+numpy >= 1.21.4  
+pandas >= 1.5.1  
+matplotlib >= 3.4.3  
