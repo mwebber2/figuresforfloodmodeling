@@ -19,7 +19,7 @@ matplotlib >= 3.4.3
 
 ```PCSWMM1D_parametersExp1.xlsx```
 - Each tab represents results from a different calibration experiment: the basecase/prior model, the calibration for the most upstream location for August storms with limits on parameters, calibration for the most upstream location for all storms with limits on parameters
-- For the Mar-Oct_withlimits tab that is used for figure creation, the observed and the modeled flow are recorded for each storm for the baseline/prior model, for the model calibrated to ten storms, and for the model calibrated for 1 storm
+- For the `Mar-Oct_withlimits` tab that is used for figure creation, the observed and the modeled flow are recorded for each storm for the baseline/prior model, for the model calibrated to ten storms, and for the model calibrated for 1 storm
 - Columns are repeated to facilitate two sets of RMSE calculations
   
 ```PCSWMM_multipanelscatterplot.xlsx```
